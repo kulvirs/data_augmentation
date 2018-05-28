@@ -4,4 +4,5 @@ This script performs a number of random rotations and shears on the given input 
 
 ## Running the script
 This script was designed for python3.6. To run it type: python3 data_aug.py [path to image folder]
+
 If no path is given, the script will augment images in the current working directory.
